@@ -1,0 +1,12 @@
+# VS Code directories and files
+.vscode/
+
+# Node.js modules
+node_modules/
+
+# Compiled output
+out/
+test/
+
+# Other specific files to ignore
+hoverlocale-*.vsix
